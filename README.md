@@ -66,4 +66,6 @@ This web app has the following functionalities:-
 
 9. Through the entire web app, each and every excetion is handled well using custom codes and UI,	such that they are easily managed, and user can get to know the fault.
     ![bg](https://github.com/user-attachments/assets/58c4eff2-0c2e-44d3-8f04-b49fa052e54f)
+   ![about](https://github.com/user-attachments/assets/b8660a4e-b221-428d-a40b-142aa65604da)
+
 
